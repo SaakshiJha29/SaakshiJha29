@@ -90,8 +90,8 @@ Full-stack developer passionate about building responsive web applications and s
 
 ## 📊 GitHub Stats
 
-<a href="http://www.github.com/SaakshiJha29">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaakshiJha29&stroke=f97316&background=000000&ring=ffffff&fire=ffffff&currStreakNum=f97316&currStreakLabel=ffffff&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" />
+<a href="https://github.com/SaakshiJha29">
+  <img src="https://streak-stats.demolab.com?user=SaakshiJha29&theme=dark&hide_border=true&ring=ffffff&fire=ffffff&currStreakNum=f97316&sideNums=f97316&dates=f97316" />
 </a>
 
 ---
