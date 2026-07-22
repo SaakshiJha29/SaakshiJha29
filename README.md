@@ -86,13 +86,4 @@ Full-stack developer passionate about building responsive web applications and s
 <a href="https://www.linkedin.com/in/saakshi-jha-851080298/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32"/></a>
 </p>
 
----
-## 📊 GitHub Stats
 
-<a href="https://github.com/SaakshiJha29">
-  <img src="https://streak-stats.demolab.com?user=SaakshiJha29&theme=dark&hide_border=true" />
-</a>
-
----
-
-⭐ **Always learning. Always building. Always improving.**
